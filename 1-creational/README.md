@@ -3,7 +3,7 @@
 ## Creational Design Patterns
 
 In these exercises we will be examining the following design patterns:
-
+ 
 + Factory Method, 
 + Abstract Factory, 
 + Builder,
